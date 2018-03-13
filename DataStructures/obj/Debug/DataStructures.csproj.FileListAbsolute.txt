@@ -1,0 +1,4 @@
+D:\Mis Documentos\Universidad\Progra\Box Sync\Lab Estructura de Datos\Final BTree\DataStructures\DataStructures\bin\Debug\DataStructures.dll
+D:\Mis Documentos\Universidad\Progra\Box Sync\Lab Estructura de Datos\Final BTree\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+D:\Mis Documentos\Universidad\Progra\Box Sync\Lab Estructura de Datos\Final BTree\DataStructures\DataStructures\obj\Debug\DataStructures.dll
+D:\Mis Documentos\Universidad\Progra\Box Sync\Lab Estructura de Datos\Final BTree\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
